@@ -5,7 +5,10 @@ import PrayerList from './js/components/PrayerList';
 import Home from './js/components/Home';
 import {Router, Route, browserHistory, IndexRoute} from 'react-router';
 import App from './App';
+
 import './css/index.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';
 
 ReactDOM.render(
    <Router history={browserHistory}>
