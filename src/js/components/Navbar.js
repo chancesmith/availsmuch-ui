@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import {Navbar, Nav, NavItem, Glyphicon} from 'react-bootstrap';
 import {LinkContainer} from 'react-router-bootstrap';
 
+import '../../css/Navbar.css';
+
 class MainNav extends Component {
    constructor(props) {
       super(props);
