@@ -12,7 +12,7 @@ class App extends Component {
 
             <MainNav />
 
-            <Jumbotron minHeight="75%">
+            <Jumbotron>
                <div className="content">
                   {this.props.children}
                </div>
