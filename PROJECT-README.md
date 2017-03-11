@@ -8,7 +8,7 @@
 	- you or someone else
 - Group
 - Journal
-	-event feed
+	- event feed
 - List
 	- reminders & requests
 
