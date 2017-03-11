@@ -17,4 +17,4 @@
 ![](http://i.imgur.com/2Zifc0f.jpg)
 
 ##Screens
-![](http://i.imgur.com/mWIxozl.jpg)
+![](http://i.imgur.com/sxyQQzV.jpg)
