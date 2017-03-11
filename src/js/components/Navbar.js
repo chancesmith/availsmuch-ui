@@ -27,8 +27,11 @@ class MainNav extends Component {
                   <LinkContainer to="requests">
                      <NavItem href="#">Prayer Requests</NavItem>
                   </LinkContainer>
-                  <LinkContainer to="prayerList">
+                  <LinkContainer to="prayer-list">
                      <NavItem href="#">Prayer List</NavItem>
+                  </LinkContainer>
+                  <LinkContainer to="new-request">
+                     <NavItem href="#">New Request</NavItem>
                   </LinkContainer>
                </Nav>
                <Nav pullRight>
